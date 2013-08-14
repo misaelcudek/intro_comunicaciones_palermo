@@ -1,10 +1,10 @@
 # Tipos de Redes (Diferenciadas por Alcance)
 
-||TIPO          ||WAN ||LAN  ||MAN         ||PAN      ||HAN       ||BAN         ||
-----------------------------------------------------------------------------------
-||Alcance       ||Wide||Local||Metropolitan||Personal ||Human     ||Body        ||
-||Ejemplo       ||    ||     ||            ||Bluetooth||p/Contacto||Disp Medicos||
-||Administracion||ISP ||     ||            ||         ||          ||            ||
+|TIPO          |WAN |LAN  |MAN         |PAN      |HAN       |BAN         |
+|--------------|----|-----|------------|---------|----------|------------|
+|Alcance       |Wide|Local|Metropolitan|Personal |Human     |Body        |
+|Ejemplo       |    |     |            |Bluetooth|p/Contacto|Disp Medicos|
+|Administracion|ISP |     |            |         |          |            |
 
 
 # Transferencia de informacion
