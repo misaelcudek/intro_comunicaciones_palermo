@@ -1,8 +1,10 @@
 # Modelos de los sistemas de comunicaciones
 * Emisor -- Medio (canal) --> Receptor 
+
 * * El emisor y la fuente es el mismo. Ej. Comunicacion humana
 
 * Fuente -> Emisor -- Medio --> Receptor -> Destinatario
+
 * * El emisor es el encargado de codificar
 * * El receptor es el encargado de decodificar
 
@@ -42,10 +44,13 @@ Tanto el emisor como el receptor deben estar alerta en el mismo momento para log
 una comunicación efectiva
 
 * Sincronica
+
 * * Clock compartido
 * * Sincronismo Embebido (Ej. Cod Manchester)
 * * c/Reloj Patron
+
 * Asincronica
+
 * * Bit de start/stop
 
 ## Manejo del intercambio de la informacion

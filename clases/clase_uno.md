@@ -21,12 +21,16 @@ Computadora → Modem → Medio Transmicion → Modem → Computadora
 
 # Clasificiacion Comunicaciones
 * Sincronismo (Relacion Temporal)
+
 * * Sincronicas
+
 * * * Clock agregado
 * * * Clock en cada punto - Relojes Patron
+
 * * Asincronicas
 
 * Sentido
+
 * * Unidireccionalesa - Mouse / Radio / ETC
 * * Bidireccionales (≠ tiempo) - Handy / Sonar
 * * Bidireccionales - Telefono
@@ -35,6 +39,7 @@ Computadora → Modem → Medio Transmicion → Modem → Computadora
 * Indirecta
 
 * Cantidad de Emisores/Receptores
+
 * * Unicast - 1 → 1
 * * Multicast - 1 → grupo
 * * Broadcast - 1 → todos
