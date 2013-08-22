@@ -34,7 +34,7 @@ y receptor. O a traves de la utilizacion de relojes patron.
 6)
 
    |start|-----|-----|-----|-----|stop-|________|start|-----|-----|-----|-----|stop-|
-   
+
    ^--------^------^------^------^------^-------^--------^------^------^------^------^
 
    Si la señal tiene un tiempo entre trama y trama apreciable para que no quede

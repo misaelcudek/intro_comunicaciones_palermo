@@ -20,3 +20,12 @@
 * Recuperacion
 * Seguridad
 * Manejo de red
+
+# Clase Tres
+* Medios de enlace
+* Energia
+* Ondas
+* Espectro
+* Clasificacion de señales
+* Electromagnetismo
+
