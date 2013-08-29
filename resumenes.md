@@ -28,4 +28,13 @@
 * Espectro
 * Clasificacion de señales
 * Electromagnetismo
+* Reflexion
+* Fase
+* Ondas Estacionarias
+* Carga (Impedancia)
 
+# Clase Cuatro
+* Repaso Atenuacion
+* Repaso Video (Reflexion, Fase, Ondas Estacionarias, Carga)
+* Modificaciones de la trayectoria de una onda
+* Fourier

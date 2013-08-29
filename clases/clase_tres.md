@@ -95,3 +95,5 @@ de la luz.
 ## Atenuacion
 Una onda electromagnetica no se atenua, pero la energia percibida se reduce a
 medida que uno se aleja en el espacio (Ejemplo de la esfera)
+
+> Impedancia del vacio: 377Ω
