@@ -38,3 +38,13 @@
 * Repaso Video (Reflexion, Fase, Ondas Estacionarias, Carga)
 * Modificaciones de la trayectoria de una onda
 * Fourier
+
+# Clase Cinco
+* Redes de Informacion
+* Paquetes
+* Repaso Fourier
+
+# Clase Seis
+* Modulacion
+* Convolucion
+* Repaso Fourier
